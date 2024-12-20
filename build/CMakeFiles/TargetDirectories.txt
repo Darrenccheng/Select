@@ -1,0 +1,4 @@
+/home/computer_Study/IO/SelectDemo/build/CMakeFiles/rebuild_cache.dir
+/home/computer_Study/IO/SelectDemo/build/CMakeFiles/edit_cache.dir
+/home/computer_Study/IO/SelectDemo/build/CMakeFiles/SelectClient.dir
+/home/computer_Study/IO/SelectDemo/build/CMakeFiles/Select_Server.dir

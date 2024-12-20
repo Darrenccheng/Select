@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Select_Server.dir/select_server.cpp.o  -o ../bin/Select_Server  -lpthread 
